@@ -42,7 +42,6 @@ javac ExpenseTracker.java
 
 ## Screenshots
 
-![Expense Tracker Menu](Expense Tracker Menu.png)
+![Expense Tracker Menu](expense-tracker-menu.png)
 
-![Expense Tracker Total](Expense Tracker Total.png)
-
+![Expense Tracker Total](expense-tracker-total.png)
