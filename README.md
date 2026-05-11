@@ -40,8 +40,3 @@ javac ExpenseTracker.java
 
 [Watch Demo Video](https://drive.google.com/file/d/1mE1G0xudJhwkZ9z2LYnkybK4cdZjZ3gc/view?usp=drive_link)
 
-## Screenshots
-
-![Expense Tracker Menu](expense-tracker-menu.png)
-
-![Expense Tracker Total](expense-tracker-total.png)
