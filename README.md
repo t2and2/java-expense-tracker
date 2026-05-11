@@ -37,10 +37,13 @@ This is a simple console-based expense tracker built in Java during the Google H
 javac ExpenseTracker.java
 
 ## Demo Video
-https://drive.google.com/file/d/1mE1G0xudJhwkZ9z2LYnkybK4cdZjZ3gc/view?usp=drive_link
-Screenshots
-![java-expense-tracker] <img width="129" height="75" alt="java-expense-tracker (2)" src="https://github.com/user-attachments/assets/143efe7c-18be-41cb-b870-6a045876ade4" />
-![java-expense-tracker]<img width="1029" height="413" alt="image" src="https://github.com/user-attachments/assets/c3b38884-ac5c-4ba5-8e21-155b11f79508" />
 
+[Watch Demo Video](https://drive.google.com/file/d/1mE1G0xudJhwkZ9z2LYnkybK4cdZjZ3gc/view?usp=drive_link)
+
+## Screenshots
+
+![Expense Tracker Menu](images/java-expense-menu.png)
+
+![Expense Tracker Total](images/java-expense-total-calculation.png)
 
 
