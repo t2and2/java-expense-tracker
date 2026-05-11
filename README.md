@@ -1,42 +1,37 @@
-
----
-
-```markdown
 # Java Expense Tracker
 
-## **Overview**
-This project is a Java-based expense tracking application developed during the Google Hackathon. The application helps users log, organize, and calculate personal expenses through a simple console-based system.
+## Overview
+This is a simple console-based expense tracker built in Java during the Google Hackathon. It allows users to record expenses, review their history, and calculate totals using a straightforward command‑line interface.
 
 ---
 
-## **Features**
-- Add expenses
-- View expense history
-- Calculate total expenses
-- Console-based interaction
-- Expense data organization
+## Features
+- Add new expenses
+- View all recorded expenses
+- Calculate total spending
+- Organized console workflow
+- Basic data handling with arrays/collections
 
 ---
 
-## **Technologies Used**
-- **Java**
-- **Object-Oriented Programming**
-- **Arrays and Collections**
-- **User Input Handling**
+## Technologies Used
+- Java
+- Object-Oriented Programming
+- Arrays & Collections
+- User Input Handling
 
 ---
 
-## **My Contributions**
-- Java application development
-- Expense tracking functionality
-- User input handling
-- Expense calculation logic
-- Console interaction design
+## My Contributions
+- Implemented core expense tracking logic
+- Designed the console interaction flow
+- Built input handling and validation
+- Wrote methods for storing and calculating expenses
 
 ---
 
-## **How to Run**
+## How to Run
 
-### **1. Compile the Program**
+### 1. Compile the Program
 ```bash
 javac ExpenseTracker.java
