@@ -39,9 +39,8 @@ javac ExpenseTracker.java
 ## Demo Video
 https://drive.google.com/file/d/1mE1G0xudJhwkZ9z2LYnkybK4cdZjZ3gc/view?usp=drive_link
 Screenshots
-![Expense Tracker Menu] <img width="175" height="106" alt="Expense Tracker total" src="https://github.com/user-attachments/assets/d2c3a0d6-aa38-4019-8746-edd5a034fbf0" />
-![Expense Tracker Total]<img width="175" height="106" alt="Expense Tracker total" src="https://github.com/user-attachments/assets/93fc9138-ff13-41fd-abf8-e2b41590c326" />
-
+![java-expense-tracker] <img width="129" height="75" alt="java-expense-tracker (2)" src="https://github.com/user-attachments/assets/143efe7c-18be-41cb-b870-6a045876ade4" />
+![java-expense-tracker]<img width="1029" height="413" alt="image" src="https://github.com/user-attachments/assets/c3b38884-ac5c-4ba5-8e21-155b11f79508" />
 
 
 
