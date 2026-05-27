@@ -36,6 +36,8 @@ This is a simple console-based expense tracker built in Java during the Google H
 ```bash
 javac ExpenseTracker.java
 
+```
+
 ## Demo Video
 
 [Watch Demo Video](https://drive.google.com/file/d/1mE1G0xudJhwkZ9z2LYnkybK4cdZjZ3gc/view?usp=drive_link)
